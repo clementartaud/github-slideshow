@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Et voilà vive la neo geo
 Use the left arrow to go back!
